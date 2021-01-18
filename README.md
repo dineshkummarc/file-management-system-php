@@ -1,2 +1,23 @@
-# file-management-system-php
-File Management System using PHP
+<div align="center">
+  
+# File Management System using PHP
+
+  <img src="fms.png" />
+  <hr/>
+</div>
+
+### Description
+
+This system is a file or document sharing web application that is developed using PHP/MySQLi, HTML, CSS, JavaScript (jQuery, Ajax) and Bootstrap.
+
+### Features
+
+<ul>
+  <li>User Management</li>
+  <li>Upload files or documents</li>
+  <li>Organize into directory</li>
+  <li>Download files</li>
+  <li>Share files to other users.</li>
+</ul>
+
+Visit www.sourcecodester.com/php/14454/file-management-system-using-phpmysql.html for the other details and information about the File Management System

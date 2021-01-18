@@ -20,4 +20,12 @@ This system is a file or document sharing web application that is developed usin
   <li>Share files to other users.</li>
 </ul>
 
-Visit www.sourcecodester.com/php/14454/file-management-system-using-phpmysql.html for the other details and information about the File Management System
+Visit www.sourcecodester.com/php/14454/file-management-system-using-phpmysql.html for the other details and information about the File Management System.
+
+### Website Info
+| Title | File Management System using PHP/MySQLi with Source Code |
+|:------|----------------------:|
+| Website | [sourcodester.com]: https://www.sourcecodester.com/ |
+| Link   | https://www.sourcecodester.com/php/14454/file-management-system-using-phpmysql.html |
+| Uploader | [oretnom23]: https://www.sourcecodester.com/users/tips23 |
+| Language | [PHP]: https://www.sourcecodester.com/php-project |

@@ -1,7 +1,5 @@
 <div align="center">
-  
 # File Management System using PHP
-
   <img src="fms.png" />
   <hr/>
 </div>
